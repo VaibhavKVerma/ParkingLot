@@ -14,15 +14,15 @@ LLD Parking Lot - https://github.com/ashishps1/awesome-low-level-design/blob/mai
 
 # Entities
 
-Parking Lot
-Parking Spot
-Level
-Vehicle
+* Parking Lot
+* Parking Spot
+* Level
+* Vehicle
 
 # Relationships
-Parking Lot has a Vehicle
-Level has many Parking Spots
-Parking Lot has many Levels
-Vehicle can be of type CAR,BUS,MOTORBIKE
+* Parking Lot has a Vehicle
+* Level has many Parking Spots
+* Parking Lot has many Levels
+* Vehicle can be of type CAR,BUS,MOTORBIKE
 
  
